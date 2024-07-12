@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @adirvic if u prefer, Adir Vicente
-- 👀 I’m interested in core-java
-- 🌱 I’m currently learning security
-- 💞️ I’m looking to collaborate on wipro
+- 👀 I’m interested in built Gen-AI
+- 🌱 I’m currently learning Generative AI
+- 💞️ I’m looking to collaborate on GFT
 - 📫 How to reach me adirvic@gmail.com
 
 <!---
